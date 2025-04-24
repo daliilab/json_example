@@ -1,0 +1,14 @@
+{
+  "data": {
+    "temp": 25,
+    "humidity": 30,
+    "rain": 25,
+    "weather": "rainy",
+    "day": "thursday"
+  },
+  "new_data": {
+    "new_temp": 30,
+    "new_humidity": 25,
+    "month": "January"
+  }
+}
